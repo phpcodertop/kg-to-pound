@@ -1,17 +1,17 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "phpcodertop/kg-to-pound",
+    "description": "Convert Kilograms to Pound",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "phpcodertop",
+        "kg-to-pound"
     ],
-    "homepage": "https://github.com/:vendor_name/:package_name",
+    "homepage": "https://github.com/phpcodertop/kg-to-pound",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": "https://spatie.be",
+            "name": "Ahmed Halima",
+            "email": "phpcodertop@gmail.com",
+            "homepage": "https://github.com/phpcodertop",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Phpcodertop\\KgToPound\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Phpcodertop\\KgToPound\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -44,14 +44,4 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "funding": [
-        {
-            "type": "github",
-            "url": "https://github.com/sponsors/spatie"
-        },
-        {
-            "type": "other",
-            "url": "https://spatie.be/open-source/support-us"
-        }
-    ]
 }
