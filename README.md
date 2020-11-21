@@ -1,8 +1,8 @@
 # Convert Kilograms to Pound
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/phpcodertop/kg-to-pound.svg?style=flat-square)](https://packagist.org/packages/phpcodertop/kg-to-pound)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/phpcodertop/kg-to-pound/run-tests?label=tests)](https://github.com/phpcodertop/kg-to-pound/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/phpcodertop/kg-to-pound.svg?style=flat-square)](https://packagist.org/packages/phpcodertop/kg-to-pound)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/phpcodertop/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/phpcodertop/unit-conversions)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/phpcodertop/unit-conversions/run-tests?label=tests)](https://github.com/phpcodertop/unit-conversions/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/phpcodertop/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/phpcodertop/unit-conversions)
 
 
 ## Installation
@@ -10,7 +10,7 @@
 You can install the package via composer:
 
 ```bash
-composer require phpcodertop/kg-to-pound
+composer require phpcodertop/unit-conversions
 ```
 
 ## Usage

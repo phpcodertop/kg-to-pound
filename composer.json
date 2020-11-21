@@ -5,7 +5,7 @@
         "phpcodertop",
         "kg-to-pound"
     ],
-    "homepage": "https://github.com/phpcodertop/kg-to-pound",
+    "homepage": "https://github.com/phpcodertop/unit-conversions",
     "license": "MIT",
     "authors": [
         {
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Phpcodertop\\KgToPound\\": "src"
+            "Phpcodertop\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Phpcodertop\\KgToPound\\Tests\\": "tests"
+            "Phpcodertop\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
