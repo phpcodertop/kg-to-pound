@@ -17,7 +17,7 @@ composer require phpcodertop/unit-conversions
 
 ``` php
 $skeleton = new Phpcodertop\KgToPound();
-echo $skeleton->echoPhrase('Hello, Phpcodertop!');
+echo $skeleton->toLbs(100);
 ```
 
 ## Testing
