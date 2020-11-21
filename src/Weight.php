@@ -4,7 +4,6 @@ namespace Phpcodertop\UnitConversions;
 
 class Weight
 {
-
     private float $kilograms;
 
     /**
@@ -32,5 +31,4 @@ class Weight
     {
         return $this->kilograms * 2.2046;
     }
-
 }
